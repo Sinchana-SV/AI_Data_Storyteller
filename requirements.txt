@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit
+gradio
+fpdf
+python-docx
+transformers
+kaleido
+scipy
+scikit-learn
+torch
+torchvision
+torchaudio
+statsmodels
