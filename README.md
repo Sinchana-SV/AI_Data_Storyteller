@@ -1,3 +1,13 @@
+---
+title: AI Data Storyteller
+emoji: 📊
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+app_file: dashboard/app.py
+pinned: false
+---
+
 # 🤖 AI-Powered Data Storyteller
 
 A comprehensive data analysis platform that automatically performs Exploratory Data Analysis (EDA), generates advanced visualizations, and provides AI-powered technical insights for CSV datasets.
